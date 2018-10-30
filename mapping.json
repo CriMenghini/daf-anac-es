@@ -1,0 +1,135 @@
+{
+  "gara": {
+    "properties": {
+      "cf_amministrazione": {
+        "type": "text"
+      },
+      "sa_cap": {
+        "type": "text"
+      },
+      "sa_citta": {
+        "type": "text"
+      },
+      "sa_descrizione_natura_giuridica": {
+        "type": "text"
+      },
+      "sa_indirizzo": {
+        "type": "text"
+      },
+      "sa_provincia": {
+        "type": "text"
+      },
+      "codice_stazione": {
+        "type": "text"
+      },
+      "categoriaprevalente": {
+        "type": "text"
+      },
+      "cig": {
+        "type": "text"
+      },
+      "cig_accordoquadro": {
+        "type": "text"
+      },
+      "cpv": {
+        "type": "text"
+      },
+      "descrizione_cpv": {
+        "type": "text"
+      },
+      "datainizio": {
+        "type": "date"
+      },
+      "dataultimazione": {
+        "type": "date"
+      },
+      "data_pubblicazione": {
+        "type": "date"
+      },
+      "data_stato": {
+        "type": "date"
+      },
+      "importosommeliquidate": {
+        "type": "float"
+      },
+      "importoaggiudicazione": {
+        "type": "float"
+      },
+      "localita": {
+        "type": "text"
+      },
+      "n_aggiudicatari": {
+        "type": "integer"
+      },
+      "n_partecipanti": {
+        "type": "integer"
+      },
+      "id_gara": {
+        "type": "text"
+      },
+      "oggetto_gara": {
+        "type": "text"
+      },
+      "oggetto_lotto": {
+        "type": "text"
+      },
+      "gara_lotti": {
+        "type": "text"
+      },
+      "oggetto_princ": {
+        "type": "text"
+      },
+      "sceltacontraente": {
+        "type": "text"
+      },
+      "luogo_istat": {
+        "type": "text"
+      },
+      "modalita_realizzazione": {
+        "type": "text"
+      },
+      "sigla_provincia": {
+        "type": "text"
+      },
+      "luogo_nuts": {
+        "type": "text"
+      },
+      "motivo_esclusione": {
+        "type": "text"
+      },
+      "id_categoria_prevalente": {
+        "type": "text"
+      },
+      "descrizione_categoria": {
+        "type": "text"
+      },
+      "data_aggiudicazione_def": {
+        "type": "date"
+      },
+      "flag_escluso": {
+        "type": "text"
+      },
+      "esecuzione_urgenza": {
+        "type": "text"
+      },
+      "importo_lotto": {
+        "type": "float"
+      },
+      "oggetto_princ_contratto": {
+        "type": "text"
+      },
+      "procedura": {
+        "type": "text"
+      },
+      "stato_attuale": {
+        "type": "text"
+      },
+      "denominazione_cc": {
+        "type": "text"
+      },
+      "denominazione_amministrazione": {
+        "type": "text"
+      }
+    }
+  }
+}
