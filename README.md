@@ -17,3 +17,4 @@ Nella repository sono contenuti i seguenti file:
 * `ESSearch.js`:
   > E' il file javascript da sostituire a quello presente [qui](https://github.com/teamdigitale/daf-anac-search/tree/master/src) per attivare la UI per i dati ANAC. Alcune funzionalità non funzionano, non ho avuto il tempo di indagare il perchè.
  
+![alt text](img/ui.png)
